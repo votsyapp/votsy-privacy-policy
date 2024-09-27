@@ -16,45 +16,61 @@
         }
         h1 {
             color: #229879;
-            font-size: 3em;
+            font-size: 2em;
             text-align: center;
             margin-bottom: 20px;
         }
         h2 {
             color: #229879;
-            font-size: 2em;
-            margin-top: 40px;
+            font-size: 1.5em;
+            margin-top: 30px;
             margin-bottom: 15px;
         }
         h3 {
-            font-size: 1.5em;
-            margin-top: 30px;
+            font-size: 1.2em;
+            margin-top: 25px;
             margin-bottom: 10px;
         }
         p {
-            font-size: 1.2em;
-            margin-bottom: 20px;
+            font-size: 1em;
+            margin-bottom: 15px;
             text-align: left;
         }
         ul {
-            font-size: 1.2em;
+            font-size: 1em;
             margin-left: 20px;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
             list-style: disc;
         }
         .container {
-            max-width: 900px;
+            max-width: 100%;
             margin: 0 auto;
-            padding: 30px;
+            padding: 20px;
             background-color: #000000;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-            border-radius: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
         }
         li {
             margin-bottom: 10px;
         }
         strong {
-            font-size: 1.2em;
+            font-size: 1.1em;
+        }
+
+        /* Media query for devices with width below 600px */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.7em;
+            }
+            h2 {
+                font-size: 1.3em;
+            }
+            h3 {
+                font-size: 1.1em;
+            }
+            p, ul {
+                font-size: 0.95em;
+            }
         }
     </style>
 </head>
