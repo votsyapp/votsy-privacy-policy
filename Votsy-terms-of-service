@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service for Votsy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #000000;
+            color: #ffffff;
+        }
+        h1, h2 {
+            color: #229879;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-bottom: 15px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #000000;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms of Service for Votsy</h1>
+        <p><strong>Effective Date:</strong> 23.09.2024</p>
+
+        <p>Welcome to <strong>Votsy</strong>! By accessing or using our app, you agree to these Terms of Service. If you do not agree with these terms, please refrain from using the app.</p>
+
+        <h2>1. Definitions</h2>
+        <p>In these Terms of Service:</p>
+        <ul>
+            <li><strong>"App"</strong> refers to Votsy, the voting application.</li>
+            <li><strong>"User"</strong> refers to anyone accessing or using the app.</li>
+            <li><strong>"Content"</strong> refers to any information, text, graphics, or other materials shared within the app.</li>
+        </ul>
+
+        <h2>2. Eligibility</h2>
+        <ul>
+            <li>You must be at least <strong>13 years old</strong> (or meet the minimum age of consent in your jurisdiction) to use Votsy.</li>
+            <li>By using the app, you confirm that your use complies with applicable laws.</li>
+        </ul>
+
+        <h2>3. Account Registration</h2>
+        <ul>
+            <li>Users can register or log in via third-party services such as Google Sign-In or Apple Sign-In.</li>
+            <li>If using Apple Sign-In, you may choose to use Apple’s private relay email service to maintain anonymity.</li>
+            <li>You are responsible for safeguarding your login credentials and all activity conducted under your account.</li>
+        </ul>
+
+        <h2>4. Use of Votsy</h2>
+        <p>By using Votsy, you agree to:</p>
+        <ul>
+            <li>Use the app for lawful purposes.</li>
+            <li>Provide accurate and appropriate content when creating votes.</li>
+        </ul>
+        <p>You must not:</p>
+        <ul>
+            <li>Harass, threaten, or defame others.</li>
+            <li>Share hate speech, explicit content, or misinformation.</li>
+            <li>Engage in behavior that disrupts the app’s operation or infringes on intellectual property rights.</li>
+        </ul>
+
+        <h2>5. Voting and Content</h2>
+        <ul>
+            <li>Votes cast within the app are anonymous and cannot be linked to individual users.</li>
+            <li>Content you create (e.g., vote titles, options) must comply with Votsy’s Acceptable Use Policy.</li>
+            <li>Votsy reserves the right to remove inappropriate or harmful content.</li>
+        </ul>
+
+        <h2>6. Privacy</h2>
+        <p>Your use of Votsy is subject to our <a href="https://votsyapp.github.io/votsy-privacy-policy/" style="color: #229879;">Privacy Policy</a>, which outlines how we collect, use, and protect your information.</p>
+
+        <h2>7. Intellectual Property</h2>
+        <ul>
+            <li>Votsy owns all intellectual property rights related to the app.</li>
+            <li>By creating or sharing content, you grant Votsy a <strong>non-exclusive, royalty-free license</strong> to use, display, and distribute your content within the app.</li>
+        </ul>
+
+        <h2>8. Data Sharing and Usage</h2>
+        <ul>
+            <li>Aggregated, non-personal data (e.g., voting trends) may be shared with third parties for research or business purposes.</li>
+            <li>Personal information will not be sold or shared without your consent, as detailed in our Privacy Policy.</li>
+        </ul>
+
+        <h2>9. User-Generated Content</h2>
+        <ul>
+            <li>Users are solely responsible for the content they create.</li>
+            <li>By posting content, you warrant that it does not violate any laws or third-party rights.</li>
+            <li>Votsy reserves the right to remove content or suspend accounts for violations.</li>
+        </ul>
+
+        <h2>10. Limitations of Liability</h2>
+        <ul>
+            <li>Votsy is provided on an <strong>"as-is"</strong> basis without warranties.</li>
+            <li>We are not liable for any indirect, incidental, or consequential damages arising from your use of the app.</li>
+        </ul>
+
+        <h2>11. Termination</h2>
+        <ul>
+            <li>Votsy may suspend or terminate your account if you violate these terms.</li>
+            <li>You may delete your account and request the removal of associated data at any time.</li>
+        </ul>
+
+        <h2>12. Modifications to Terms</h2>
+        <ul>
+            <li>We reserve the right to update these Terms of Service at any time.</li>
+            <li>Users will be notified of significant changes through the app or via email.</li>
+            <li>Continued use of the app after updates indicates acceptance of the new terms.</li>
+        </ul>
+
+        <h2>13. Governing Law</h2>
+        <ul>
+            <li>These terms are governed by the laws of <strong>[Insert Jurisdiction]</strong>.</li>
+            <li>Disputes will be resolved in <strong>[Insert Appropriate Courts]</strong>.</li>
+        </ul>
+
+        <h2>14. Contact Information</h2>
+        <p>If you have any questions or concerns about these terms, you can contact us at:</p>
+        <p><strong>Email:</strong> votsyapp@outlook.com</p>
+    </div>
+</body>
+</html>
